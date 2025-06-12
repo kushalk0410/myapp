@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">vtalk</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="teacher_login">teacher login</string>
+    <string name="name">Name</string>
+    <string name="add_group">Add Group</string>
+    <string name="Groups">Groups</string>
+</resources>
